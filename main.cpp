@@ -50,6 +50,7 @@ void print() {
 		
 	}
 
+	//Starts printing the table
 	for (int i = 0; i<4; i++)    //This loops on the rows.
 	{
 		for (int j = 0; j<4; j++) //This loops on the columns
